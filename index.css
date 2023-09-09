@@ -251,8 +251,8 @@ body {
 
 body {
     background: url(public/background.jpg);
-    background-size: cover;
-    /* background-repeat: no-repeat; */
+    background-size: fit;
+    background-repeat: no-repeat; 
 }
 
 @media (min-width:400px) {
