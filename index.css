@@ -251,8 +251,10 @@ body {
 
 body {
     background: url(public/background.jpg);
+    height: 100vh;
     background-size: cover;
-    background-repeat: no-repeat; 
+    background-repeat: no-repeat;
+    background-position: 69%;
 }
 
 @media (min-width:400px) {
