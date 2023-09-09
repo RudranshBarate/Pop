@@ -251,7 +251,7 @@ body {
 
 body {
     background: url(public/background.jpg);
-    background-size: fit;
+    background-size: auto;
     background-repeat: no-repeat; 
 }
 
